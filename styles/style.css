@@ -490,6 +490,10 @@ body {
     padding-bottom: 60px;
 }
 
+.footer-contact {
+    margin-right: 70px;
+}
+
 .logo-down { 
     text-decoration: none;
 }
@@ -517,7 +521,6 @@ body {
 
 .contact-item{
     margin-bottom: 9px;
-    margin-right: 70px;
 }
 
 .footer-email,
@@ -531,7 +534,6 @@ body {
 
 .footer-container {
     display: flex;
-    /* column-gap: 70px; */
     align-items: baseline;
 }
 
